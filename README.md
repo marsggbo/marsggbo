@@ -21,6 +21,8 @@
 
 - 👯 My WeChat Official Account（微信公众号）: [AutoML机器学习](http://mp.weixin.qq.com/rr?timestamp=1595057212&src=3&ver=1&signature=9pOdjx-mUSrqIlqHosZ-wKmT0pjupscLDhidk5t9*HmvPXtQa0ANCBE*XqecQssfBA76yWbwITa4rNUIpVgwzYkxl5excCsQ0CYTfPPTpEA=)
 
+<img src="./wechat_official_account.png" style="width:50px,height:50px">
+
 - 😄 My Cnblog: [marsggbo](http://www.cnblogs.com/marsggbo/)
 - ⚡ Email: csxinhe@comp.hkbu.edu.hk
 
