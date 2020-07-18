@@ -8,11 +8,12 @@
 ### Skills
 
 <p align="left">
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="20" height="20"/> 
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> 
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="20" height="20"/> 
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> 
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/>
+  <img src="https://konpa.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
+  <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  <img src="https://konpa.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
+  <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
+  <img src="https://github.com/marsggbo/marsggbo/blob/master/pytorch.jpeg" alt="Pytorch" width="40" height="40"/>
 </p>
 
 ### Contact Me
