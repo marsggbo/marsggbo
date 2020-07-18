@@ -30,7 +30,7 @@
 ### Education
 
 - 📫 B.E. **School of Electronic Information and Communications, Huazhong University of Science and Technology**  2014.09-2018.06
-- 📫 Ph.D. **Department of Computer Science,  Baptist University**  2018.09-now
+- 📫 Ph.D. **Department of Computer Science,  Hong Kong Baptist University**  2018.09-now
 
 ### Publication
 
