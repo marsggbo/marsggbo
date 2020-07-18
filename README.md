@@ -21,7 +21,7 @@
 
 - 👯 My WeChat Official Account（微信公众号）: [AutoML机器学习](http://mp.weixin.qq.com/rr?timestamp=1595057212&src=3&ver=1&signature=9pOdjx-mUSrqIlqHosZ-wKmT0pjupscLDhidk5t9*HmvPXtQa0ANCBE*XqecQssfBA76yWbwITa4rNUIpVgwzYkxl5excCsQ0CYTfPPTpEA=)
 
-![AutoML机器学习](./wechat_official_account.png)
+![AutoML机器学习](https://github.com/marsggbo/marsggbo/blob/master/wechat_official_account.png)
 
 
 <!--
