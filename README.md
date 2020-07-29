@@ -5,8 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marsggbo" alt="marsggbo" /> </p>
 
 
+<!--
 ### Skills
-
 <p align="left">
   <img src="https://konpa.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
   <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
@@ -15,6 +15,7 @@
   <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
   <img src="https://github.com/marsggbo/marsggbo/blob/master/pytorch.jpeg" alt="Pytorch" width="40" height="40"/>
 </p>
+-->
 
 ### Contact Me
 
