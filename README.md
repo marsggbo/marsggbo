@@ -42,6 +42,17 @@
     journal={arXiv preprint arXiv:1908.00709},
     year={2019}
     }
+</pre>
+
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=marsggbo&show_icons=true" alt="marsggbo" /> 
+</p>
+
+
+<!--
+**marsggbo/marsggbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 @article{He2020BenchmarkingDL,
   title={Benchmarking Deep Learning Models and Automated Model Design for COVID-19 Detection with Chest CT Scans},
   author={Xin He and Shuo Wang and Shubiao Shi and Xiaoli Chu and J. Tang and X. Liu and Canjun Yan and Jiahuang Zhang and Gaoxing Ding},
@@ -55,17 +66,6 @@
   year={2019},
   pages={4839-4844}
 }
-</pre>
-
-
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=marsggbo&show_icons=true" alt="marsggbo" /> 
-</p>
-
-
-<!--
-**marsggbo/marsggbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
