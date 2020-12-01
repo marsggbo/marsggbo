@@ -41,12 +41,16 @@ Any internship opportunities related to AutoML would be greatly appreciated.
 ### Publication
 
 <pre>
-@article{he2019automl,
-    title={AutoML: A Survey of the State-of-the-Art},
-    author={He, Xin and Zhao, Kaiyong and Chu, Xiaowen},
-    journal={arXiv preprint arXiv:1908.00709},
-    year={2019}
-    }
+@article{HE2020106622,
+  title = "AutoML: A survey of the state-of-the-art",
+  journal = "Knowledge-Based Systems",
+  pages = "106622",
+  year = "2020",
+  issn = "0950-7051",
+  doi = "https://doi.org/10.1016/j.knosys.2020.106622",
+  url = "http://www.sciencedirect.com/science/article/pii/S0950705120307516",
+  author = "Xin He and Kaiyong Zhao and Xiaowen Chu",
+}
 </pre>
 
 
