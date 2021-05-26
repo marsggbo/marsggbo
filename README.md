@@ -24,7 +24,9 @@
 - 🔭 My Zhihu Column（知乎专栏）: [AutoML](https://www.zhihu.com/people/hexin_marsggbo)
 - 👯 My WeChat Official Account（微信公众号）: [AutoML机器学习](http://mp.weixin.qq.com/rr?timestamp=1595057212&src=3&ver=1&signature=9pOdjx-mUSrqIlqHosZ-wKmT0pjupscLDhidk5t9*HmvPXtQa0ANCBE*XqecQssfBA76yWbwITa4rNUIpVgwzYkxl5excCsQ0CYTfPPTpEA=)
 
-<img src="https://github.com/marsggbo/marsggbo/raw/master/wechat_official_account.png" alt="AutoML机器学习" width="150" height="150">
+![image](https://user-images.githubusercontent.com/13477956/119597654-1243f900-be14-11eb-93cd-96cf26d6edf1.png)
+
+<!-- <img src="https://github.com/marsggbo/marsggbo/raw/master/wechat_official_account.png" alt="AutoML机器学习" width="150" height="150"> -->
 
 
 
