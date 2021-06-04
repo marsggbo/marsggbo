@@ -43,11 +43,16 @@ Any internship opportunities related to AutoML would be greatly appreciated.
 ### Publication
 
 <pre>
-@article{He2021CovidNet3D, 
-  title={Automated Model Design and Benchmarking of 3D Deep Learning Models for COVID-19 Detection with Chest CT Scans}, 
-  journal={Proceedings of the AAAI Conference on Artificial Intelligence}, 
-  author={<b>He, Xin</b> and Wang, Shihao and Chu, Xiaowen and Shi, Shaohuai and Tang, Jiangping and Liu, Xin and Yan, Chenggang and Zhang, Jiyong and Ding, Guiguang}, 
-  year={2021}
+@article{He2021AutoMLSurvey
+  title={Automated Model Design and Benchmarking of Deep Learning Models for COVID-19 Detection with Chest CT Scans},
+  volume={35},
+  url={https://ojs.aaai.org/index.php/AAAI/article/view/16614},
+  number={6},
+  journal={Proceedings of the AAAI Conference on Artificial Intelligence},
+  author={He, Xin and Wang, Shihao and Chu, Xiaowen and Shi, Shaohuai and Tang, Jiangping and Liu, Xin and Yan, Chenggang and Zhang, Jiyong and Ding, Guiguang},
+  year={2021},
+  month={May},
+  pages={4821-4829}
 }
 @article{He2020AutoML_Survey,
   title = "AutoML: A survey of the state-of-the-art",
