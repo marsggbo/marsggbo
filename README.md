@@ -43,7 +43,7 @@ Any internship opportunities related to AutoML would be greatly appreciated.
 ### Publication
 
 <pre>
-@article{He2021AutoMLSurvey
+@article{He2021AutoCOVID-19,
   title={Automated Model Design and Benchmarking of Deep Learning Models for COVID-19 Detection with Chest CT Scans},
   volume={35},
   url={https://ojs.aaai.org/index.php/AAAI/article/view/16614},
