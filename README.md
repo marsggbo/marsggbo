@@ -32,7 +32,7 @@ My current research direction is **automated machine learning (AutoML)**. If you
 
 - AutoML Framework: https://github.com/marsggbo/hyperbox
 - CVPR2021 Neural Architecture Search 1st lightweight NAS challenge and moving beyond: 7th pride
-- 第九届CCF大数据与计算智能大赛-华为“基于MindSpore AI框架实现零售商品识别”竞赛一等奖
+
 
 ### Publications
 
