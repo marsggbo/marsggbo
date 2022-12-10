@@ -39,7 +39,8 @@ My current research direction is **automated machine learning (AutoML)**. If you
 
 ### Publications
 
-- Ying G, **He X**, Gao B, et al. EAGAN: Efficient Two-stage Evolutionary Architecture Search for GANs[C]. **ECCV** 2022. (co-first author)
+- **He, X.**, Yao, J., Wang, Y., Tang, Z., Cheung, K. C., See, S., ... & Chu, X. (2022). NAS-LID: Efficient Neural Architecture Search with Local Intrinsic Dimension. **AAAI** 2023.
+- Ying G, **He X**, Gao B, et al. EAGAN: Efficient Two-stage Evolutionary Architecture Search for GANs[C]. **ECCV** 2022. (**co-first author**)
 - **He, X.**, Ying, G., Zhang, J., & Chu, X.. Evolutionary Multi-objective Architecture Search Framework: Application to COVID-19 3D CT Classification. **MICCAI** 2022.
 - Tang, Z., Zhang, Y., Shi, S., **He, X.**, Han, B., & Chu, X. (2022). Virtual Homogeneity Learning: Defending against Data Heterogeneity in Federated Learning. **ICML** 2022.
 - **He X**, Zhao K, Chu X. AutoML: A Survey of the State-of-the-Art[J]. **Knowledge-Based Systems**, 2021, 212: 106622.
@@ -59,7 +60,8 @@ My current research direction is **automated machine learning (AutoML)**. If you
 - IEEE Transactions on Medical Imaging (TMI)
 - IEEE Journal of Biomedical and Health Informatics (JBHI)
 - Expert Systems with Applications
-- AAAI Conference on Artificial Intelligence (AAAI)
+- AAAI Conference on Artificial Intelligence (AAAI) 2021/2023
+- The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 2023
 
 ### Awards
 
