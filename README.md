@@ -30,6 +30,7 @@
 
 My current research direction is **automated machine learning (AutoML)**. If you are interested in AutoML and looking for cooperation, please feel free to contact me.
 
+<b style="color:red">I am looking for a postdoc position. Welcome to contact me via email (csxinhe@comp.hkbu.edu.hk)</b>
 
 ### Project
 
