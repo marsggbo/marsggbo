@@ -24,11 +24,13 @@
 
 ### Education
 
-- 📫 B.E. **School of Electronic Information and Communications, Huazhong University of Science and Technology**  2014.09-2018.06
-- 📫 Ph.D. **Department of Computer Science,  Hong Kong Baptist University**  2018.09-now
+
+- 🇸🇬 Research Fellow. **School of Computing (SOC), National University of Singapore**, 2023-now
+- 🇭🇰 Ph.D. **Department of Computer Science,  Hong Kong Baptist University**, 2018-2023
+- 🇨🇳 B.E. **School of Electronic Information and Communications, Huazhong University of Science and Technology**, 2014-2018
 
 
-My current research direction is **automated machine learning (AutoML)**. If you are interested in AutoML and looking for cooperation, please feel free to contact me.
+My current research focuses **automated machine learning (AutoML)** and **distributed training and inference**. Should you seek collaboration opportunities, please do not hesitate to reach out to me.
 
 
 ### Project
@@ -39,12 +41,13 @@ My current research direction is **automated machine learning (AutoML)**. If you
 
 ### Publications
 
-- **He, X.**, Yao, J., Wang, Y., Tang, Z., Cheung, K. C., See, S., ... & Chu, X. (2022). NAS-LID: Efficient Neural Architecture Search with Local Intrinsic Dimension. **AAAI** 2023.
+- **He X**, Chu X. MedPipe: End-to-End Joint Search of Data Augmentation Policy and Neural Architecture for 3D Medical Image Classification[C]. **IEEE MedAI**, 2023.
+- **He, X.**, Yao, J., Wang, Y., Tang, Z., Cheung, K. C., See, S., ... & Chu, X. NAS-LID: Efficient Neural Architecture Search with Local Intrinsic Dimension. **AAAI** 2023.
 - Ying G, **He X**, Gao B, et al. EAGAN: Efficient Two-stage Evolutionary Architecture Search for GANs[C]. **ECCV** 2022. (**co-first author**)
 - **He, X.**, Ying, G., Zhang, J., & Chu, X.. Evolutionary Multi-objective Architecture Search Framework: Application to COVID-19 3D CT Classification. **MICCAI** 2022.
 - Tang, Z., Zhang, Y., Shi, S., **He, X.**, Han, B., & Chu, X. (2022). Virtual Homogeneity Learning: Defending against Data Heterogeneity in Federated Learning. **ICML** 2022.
-- **He X**, Zhao K, Chu X. AutoML: A Survey of the State-of-the-Art[J]. **Knowledge-Based Systems**, 2021, 212: 106622. <b style="color:red">(900+citations)</b>
-- **He, X**., Wang, S., Chu, X., Shi, S., Tang, J., Liu, X., Yan, C., Zhang, J., & Ding, G. (2021). Automated Model Design and Benchmarking of Deep Learning Models for COVID-19 Detection with Chest CT Scans. Proceedings of the **AAAI Conference on Artificial Intelligence**, 35(6), 4821-4829. Retrieved from https://ojs.aaai.org/index.php/AAAI/article/view/16614
+- **He X**, Zhao K, Chu X. AutoML: A Survey of the State-of-the-Art[J]. **Knowledge-Based Systems**, 2021, 212: 106622. <b style="color:red">(1000+citations)</b>
+- **He, X**., Wang, S., Chu, X., Shi, S., Tang, J., Liu, X., Yan, C., Zhang, J., & Ding, G. Automated Model Design and Benchmarking of Deep Learning Models for COVID-19 Detection with Chest CT Scans. **AAAI**, 2021.
 - Wang Y, Wang Q, Shi S, **He X**, et al. Benchmarking the performance and energy efficiency of ai accelerators for ai training[C]//2020 20th **IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGRID)**. IEEE, 2020: 744-751.
 - **He X**, Wang S, Shi S, et al. Computer-Aided Clinical Skin Disease Diagnosis Using CNN and Object Detection Models[C]//2019 **IEEE International Conference on Big Data (Big Data)**. IEEE, 2019: 4839-4844.
 
@@ -52,7 +55,6 @@ My current research direction is **automated machine learning (AutoML)**. If you
 ### Preprints
 
 - **He X**, Wang S, Shi S, et al. Benchmarking deep learning models and automated model design for covid-19 detection with chest ct scans[J]. medRxiv, 2020.
-- **He X**, Chu X. MedPipe: End-to-End Joint Search of Data Augmentation Policy and Neural Architecture for 3D Medical Image Classification[J]. 2022.
 
 ### Invited Reviewer for Journals/Conferences
 
