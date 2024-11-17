@@ -25,7 +25,19 @@
 
 🇨🇳→🇭🇰→🇸🇬 I am currently a Research Scientist at A*star, Singapore, affiliated with CFAR, under the supervision of [Prof Ong Yew Soon](https://scholar.google.com/citations?user=h9oWOsEAAAAJ&hl=en). Prior to this, I completed my Ph.D. in Computer Science at Hong Kong Baptist University (HKBU), where I was advised by [Prof. Chu Xiaowen](https://sites.google.com/view/chuxiaowen). I earned my Bachelor's degree with honors in the School of Electronic Information and Communications at Huazhong University of Science & Technology (HUST).
 
+Looking for Research Interns:
+- Areas of:
+  - AI cluster optimization
+  - Large language model optimization
+  - Resource-efficient ML systems
+- Requirements:
+  - Python, PyTorch/TensorFlow
+  - ML/Systems background
+  - LLM background
+- Duration: 6-12 months (1 year available for PhD-track students)
+- Welcome: CSC scholars, Master/Bachelor students (planning to apply for PhD)
 
+<!--
 Driven by a mission to democratize deep learning, my research is dedicated to advancing the accessibility and efficiency of large-scale deep learning models, particularly Large Language Models (LLMs). My goal is to bridge the theoretical aspects of machine learning with practical system designs to create scalable, robust, and trustworthy AI systems that are widely accessible. My interested research directions include:
 
 - 1.Model-Centric AI:
@@ -40,7 +52,6 @@ Driven by a mission to democratize deep learning, my research is dedicated to ad
   - LLM training acceleration: Distributed Parallellism (data parallel, tensor parallel, pipeline parallel)
   - LLM inference optimization: Batch Schedule, Dynamic Inference Paths
 
-<!--
 ### Publications
 
 - **He X**, Chu X. MedPipe: End-to-End Joint Search of Data Augmentation Policy and Neural Architecture for 3D Medical Image Classification[C]. **IEEE MedAI**, 2023.
